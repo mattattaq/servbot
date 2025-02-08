@@ -15,7 +15,7 @@ DISCORD-BOT/
 
 You will need to create a .env file in the root directory with the following values.
 
-```
+```ini
 DISCORD_TOKEN={REPLACE_WITH_ACTUAL_VALUE}
 TWITCH_CLIENT_ID={REPLACE_WITH_ACTUAL_VALUE}
 TWITCH_CLIENT_SECRET={REPLACE_WITH_ACTUAL_VALUE}
@@ -25,7 +25,7 @@ ANNOUNCE_CHANNEL_ID={REPLACE_WITH_ACTUAL_VALUE}
 
 an example would look like this:
 
-```
+```ini
 TWITCH_USERNAME=duida
 ```
 
